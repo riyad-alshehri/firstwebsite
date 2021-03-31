@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+.contaner{
+    margin: auto;
+    width: 900px;
+    height: 715px;
+    padding: 10px;
+    background-color: blue ;
+}
+.header{
+    margin: 10px;
+    width: auto;
+    height: 45px;
+    padding: 20px;
+    vertical-align: bottom;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 15px;
+}
+.header h1{
+    display: inline-block;
+    margin-right: 40px ;
+ }
+ .contant{
+     padding: 10px;
+     margin: 10px;
+     width: auto;
+     height: 400px;
+     background-color: silver;
+     display: inline-block;
+     border-radius: 15px;
+ }
+ .left-contant{
+     width: 25%;
+    display: inline-block;
+    background-color: red;
+    margin: 5px;
+    padding: 40px;
+    border-radius: 15px;
+ }
+ .left-contant ul{
+     text-align: center;
+     text-decoration-line: underline;
+     font-size: 26px;
+ }
+ .right-contant{
+     border-radius: 15px;
+     width: 52%;
+     height: 300px;
+     display: inline-block;
+     background-color: green;
+     vertical-align: top;
+     margin: 5px;
+     padding: 40px;
+ }
+ .right-contant h1{
+     text-align: center;
+     background-color: white;
+     margin-bottom: 20px;
+ }
+ .right-contant p{
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    height: 150px;
+    padding: 10px;
+    font-size: 24px;
+ }
+ .right-contant span{
+     text-decoration-line: underline;
+     color: skyblue;
+ }
+ .mid-contant{
+     width: auto;
+     height: 80px;
+     background-color: brown;
+     padding: 10px;
+     text-align: center;
+     vertical-align: top;
+     margin: 10px;
+     border-radius: 15px;
+ }
+ .mid-contant a{
+     display: inline-block;
+     background-color: white;
+     margin-right: 80px;
+     font-size: 35px;
+     vertical-align:bottom;
+     margin-top: 20px;
+     border-radius: 15px;
+     box-shadow: 2px 2px black;
+ }
+ .down{
+     width: auto;
+     height: 50px;
+     margin: 10px;
+     background-color: grey;
+     border-radius: 15px;
+     text-align: center;
+ }
+ .down p{
+     padding: 15px;
+ }
